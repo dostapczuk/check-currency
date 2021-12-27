@@ -1,2 +1,2 @@
 # check-currency
-App for checking currency and crypto-currency
+App for checking currency and crypto-currency (tbd)
